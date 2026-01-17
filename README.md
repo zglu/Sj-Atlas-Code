@@ -1,17 +1,19 @@
 # Sj-Atlas-Code
 This repository contains the code and analysis pipelines for the study: "A dynamic single-cell and spatial transcriptomic atlas of *Schistosoma japonicum* development and sexual maturation."
 
-🌐 Interactive Online Resource
+### 🌐 Interactive Online Resource
 The data from this study is hosted as a publicly available, interactive resource. You can explore cell clusters, gene expression profiles, and spatial niches without any coding at: 👉 https://schisto.xyz/xxx
 
-📖 Overview
+### 📖 Overview
 Schistosomiasis remains a major global health challenge, primarily driven by the prolific egg production of sexually mature parasites. This project provides a foundational molecular framework for understanding schistosome biology through:
 
 **Dynamic scRNA-seq**: Covering key stages of sexual maturation and egg production.
+
 **Spatial Transcriptomics**: Mapping tissue-resolved cellular niches and the male–female pairing interface for the first time.
+
 **Cross-species integration**: Comparative analysis with *S. mansoni* to identify conserved and species-divergent cellular plasticity.
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 ```text
 ├── 10X_scRNA-seq/
@@ -24,7 +26,7 @@ Schistosomiasis remains a major global health challenge, primarily driven by the
 └── README.md
 ```
 
-📜 Citation
+### 📜 Citation
 To be added.
 
-*Scripts subjected to update*
+*Scripts subjected to update.*
