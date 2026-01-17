@@ -22,6 +22,7 @@ Schistosomiasis remains a major global health challenge, primarily driven by the
 │   └── 05_cross-species_integration/    # Cross-species data integration with S. mansoni scRNA-seq data (Wendt et al 2020)
 ├── Stereo-seq_spatial/            # Data processing and annotation for Stereo-seq spatial transcriptomics data.
 └── README.md
+```
 
 📜 Citation
 To be added.
