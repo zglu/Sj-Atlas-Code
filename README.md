@@ -16,13 +16,15 @@ Schistosomiasis remains a major global health challenge, primarily driven by the
 ### 📂 Repository Structure
 
 ```text
+.
 ├── 10X_scRNA-seq/
-│   ├── 01_preprocessing/  # QC, doublet removal, filtering, normalization, etc
-│   ├── 02_integration_clustering/     # Integration, dimensionality reduction, clustering, and signatures
-│   ├── 03_annotation_markers/        # Spatial transcriptomics mapping and niche analysis
-│   ├── 04_sub-clustering/   # Sub-clustering for specific cell types
-│   └── 05_cross-species_integration/    # Cross-species data integration with S. mansoni scRNA-seq data (Wendt et al 2020)
-├── Stereo-seq_spatial/            # Data processing and annotation for Stereo-seq spatial transcriptomics data.
+│   ├── 01_preprocessing/           # QC, doublet removal, filtering, and normalization
+│   ├── 02_integration_clustering/  # Integration, dimensionality reduction, clustering, and signature scores
+│   ├── 03_annotation_markers/      # Cell type annotation and marker gene identification
+│   ├── 04_sub-clustering/          # High-resolution analysis of specific lineages (e.g., germlines)
+│   └── 05_cross-species/           # Integration with S. mansoni data (Wendt et al., 2020)
+├── Stereo-seq_spatial/             # Processing, tissue mapping, and niche analysis for spatial data
+├── LICENSE                         # MIT License
 └── README.md
 ```
 
