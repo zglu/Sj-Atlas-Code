@@ -1,5 +1,7 @@
 # Sj-Atlas-Code
-This repository contains the code and analysis pipelines for the study: Z. Lu, X. Wang, S. Li, et al. “Single-Cell and Spatial Transcriptomics Unveil Key Regulators Governing Cell Differentiation for *Schistosoma japonicum* Sexual Development.” Advanced Science (2026): e76329. https://doi.org/10.1002/advs.76329
+This repository contains the code and analysis pipelines for the study: 
+
+Z. Lu, X. Wang, S. Li, et al. “Single-Cell and Spatial Transcriptomics Unveil Key Regulators Governing Cell Differentiation for *Schistosoma japonicum* Sexual Development.” Advanced Science (2026): e76329. https://doi.org/10.1002/advs.76329
 
 ### 🌐 Interactive Online Resource
 The data from this study is hosted as a publicly available, interactive resource. You can explore cell clusters, gene expression profiles, and spatial niches without any coding at: 👉 https://schisto.xyz/sj-atlas
