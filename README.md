@@ -1,5 +1,5 @@
 # Sj-Atlas-Code
-This repository contains the code and analysis pipelines for the study: "A dynamic single-cell and spatial transcriptomic atlas of *Schistosoma japonicum* development and sexual maturation." (https://doi.org/10.64898/2026.01.20.700708)
+This repository contains the code and analysis pipelines for the study: Z. Lu, X. Wang, S. Li, et al. “Single-Cell and Spatial Transcriptomics Unveil Key Regulators Governing Cell Differentiation for *Schistosoma japonicum* Sexual Development.” Advanced Science (2026): e76329. https://doi.org/10.1002/advs.76329
 
 ### 🌐 Interactive Online Resource
 The data from this study is hosted as a publicly available, interactive resource. You can explore cell clusters, gene expression profiles, and spatial niches without any coding at: 👉 https://schisto.xyz/sj-atlas
